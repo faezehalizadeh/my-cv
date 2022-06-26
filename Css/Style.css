@@ -531,6 +531,8 @@ section div#seventhdiv div form input[type=email]{
 	height: 40px;
 	margin-right: 60px;
 	font-family: 'B Nazanin';
+	padding-right: 7px;
+
 }
 /*form name style*/
 section div#seventhdiv div form input[type=text]{
@@ -542,6 +544,7 @@ section div#seventhdiv div form input[type=text]{
 	height: 40px;
 	margin-right: 50px;
 	font-family: 'B Nazanin';
+	padding-right: 7px;
 }
 /*form email style when hover*/
 section div#seventhdiv div form input[type=email]:hover{
@@ -555,9 +558,9 @@ section div#seventhdiv div form input[type=text]:hover{
 }
 /*form comment style*/
 section div#seventhdiv div form textarea{
-	width: 600px;
+	width: 670px;
 	height: 200px;
-	margin: 25px 60px;
+	margin: 25px 60px 25px 0px;
 	border-radius: 5px;
 	border: 1px solid rgba(156,152,152,1.00);
 	background-color:rgba(242,242,242,1.00);
